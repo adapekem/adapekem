@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adapekem
 - 👀 I’m interested in Data Engineering and Data Science
 - 🌱 I’m currently learning Databricks
-- 💞️ I’m looking to collaborate on Machine Learning and Advanced Analytics project
+- 💞️ I’m looking to collaborate on NLP, Computer Vision, Machine Learning and Advanced Analytics projects
 - 📫 Reach me on email ada1ndukwe@gmail.com
 
 <!---
