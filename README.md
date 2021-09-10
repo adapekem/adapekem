@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adapekem
+- 👋 Hi, I’m Ada Ndukwe
 - 👀 I’m interested in Data Engineering and Data Science
 - 🌱 I’m currently learning Databricks
 - 💞️ I’m looking to collaborate on NLP, Computer Vision, Machine Learning and Advanced Analytics projects
