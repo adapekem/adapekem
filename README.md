@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on NLP, Computer Vision, Machine Learning and Advanced Analytics projects
 - 📫 Reach me on email ada1ndukwe@gmail.com
 
+https://github-readme-medium-recent-article.vercel.app/medium/<ada1ndukwe>/<0>
 <!---
 adapekem/adapekem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
