@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ada Ndukwe
-- 👀 I’m interested in Data Engineering and Data Science
-- 🌱 I’m currently learning Databricks
+- 👀 I am a full stack data scientist with experience in business intelligence and predictive analytics
+- 💻 My skills include python and R programming, statistical modelling, powerBI and exploratory data analysis
 - 💞️ I’m looking to collaborate on NLP, Computer Vision, Machine Learning and Advanced Analytics projects
 - 📫 Reach me on email ada1ndukwe@gmail.com
 
