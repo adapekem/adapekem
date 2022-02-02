@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ada Ndukwe
-- 👀 I am a full stack data scientist with experience in business intelligence and predictive analytics
-- 💻 My skills include python and R programming, statistical modelling, powerBI and exploratory data analysis
+- 👀 I am a Full Stack Data Scientist with experience in Business Intelligence and Predictive Analytics
+- 💻 My skills include Python and R programming, Statistical Modelling, PowerBI, SQL and Exploratory Data Analysis
 - 💞️ I’m looking to collaborate on NLP, Computer Vision, Machine Learning and Advanced Analytics projects
 - 📫 Reach me on email ada1ndukwe@gmail.com
 
